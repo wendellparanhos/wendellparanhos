@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58bc5b&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Wendell+Paranhos;I+was+born+in+March+of+2006;I+am+from+Brazil;I+am+studying+Systems+Analysis+and+Development+at+Etec;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7c3aed&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Wendell+Paranhos;I+was+born+in+March+of+2006;I+am+from+Brazil;I+am+studying+Systems+Analysis+and+Development+at+Etec;Be+Welcome!)
 
  <div>
   <a href="https://github.com/wendellparanhos">
