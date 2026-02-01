@@ -1,9 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7c3aed&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Wendell+Paranhos;I+was+born+in+March+of+2006;I+am+from+Brazil;I+am+studying+Systems+Analysis+and+Development+at+Etec;Be+Welcome!)
 
- <div>
+<div align="center">
   <a href="https://github.com/wendellparanhos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellparanhos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellparanhos&layout=compact&langs_count=16&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendellparanhos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendellparanhos&layout=compact&langs_count=16&theme=onedark"/>
+  </a>
 </div>
 
 
