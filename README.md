@@ -1,17 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Backend+Developer;Java;Spring+Boot;REST+APIs;PostgreSQL;AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Web+Developer;PHP;JavaScript;TypeScript;HTML+%26+CSS;Projects+with+impact" />
 </div>
 
 <p align="center">
-  <img alt="Backend Focus" src="https://img.shields.io/badge/Focus-Backend-8B5CF6?style=for-the-badge" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20work-22C55E?style=for-the-badge" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <p align="center">
-  Desenvolvedor backend com foco em <strong>Java, Spring Boot, APIs REST e arquitetura de sistemas</strong>.<br>
-  Busco criar soluções escaláveis, confiáveis e fáceis de manter, com atenção à performance e qualidade do código.
+  Desenvolvedor web focado em criar soluções práticas, bonitas e funcionais para <strong>sites, sistemas e aplicações de gestão</strong>.<br>
+  Tenho explorado <strong>PHP, JavaScript, HTML, CSS, TypeScript, MySQL</strong> e me interesso por transformar ideias em projetos reais.
 </p>
 
 <div align="center">
@@ -25,47 +26,52 @@
 
 ## 👋 Sobre mim
 
-- 💻 Backend com foco em Java, Spring Boot e APIs REST
-- 🧠 Interrese por arquitetura de sistemas, escalabilidade e boas práticas
-- ⚙️ Valorizo código limpo, organização e manutenção sustentável
-- 📦 Trabalho com integrações, banco de dados e soluções que resolvem problemas reais
-- 🚀 Busco evoluir em desenvolvimento backend, arquitetura e entrega de software robusto
+- 💻 Desenvolvedor web com foco em projetos práticos e interfaces funcionais
+- 🧩 Trabalho com PHP, JavaScript, TypeScript, HTML, CSS e banco de dados
+- 📦 Crio aplicações de gestão, sites institucionais, e-commerce e projetos pessoais
+- ⚙️ Valorizo organização, código limpo e soluções que resolvem problemas reais
+- 🚀 Busco evoluir em desenvolvimento web, UX/UX e arquitetura simples e eficiente
 
 ## 🧩 Stack principal
 
 <div align="left">
-  <img alt="Java" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="Spring" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-  <img alt="PostgreSQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img alt="PHP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img alt="HTML5" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="MySQL" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img alt="Git" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img alt="Docker" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img alt="AWS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div>
 
 ## 🛠️ Habilidades
 
-- Desenvolvimento de APIs REST
-- Modelagem e otimização de banco de dados
-- Integração com serviços externos
-- Arquitetura de software backend
-- Práticas de código limpo e manutenção
-- Boas práticas com Spring Boot e Java
+- Desenvolvimento de sites e sistemas web
+- Criação de interfaces responsivas e intuitivas
+- Desenvolvimento back-end em PHP
+- Gestão de dados com MySQL
+- Organização de projetos com Git e versionamento
+- Construção de soluções para negócios, gestão e atendimento
 
 ## 📚 Em evolução
 
 <div align="left">
   <img alt="Node.js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="TypeScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Tailwind" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 ---
 
 ## ✨ Projetos em destaque
 
-- [painel-github](https://github.com/wendellparanhos/painel-github) — dashboard para acompanhar projetos, tarefas e status com foco em produtividade.
-- [GitHub Profile](https://github.com/wendellparanhos/wendellparanhos) — espaço para apresentar minha evolução, stack e trajetória como desenvolvedor.
+- [Anote-me](https://github.com/wendellparanhos/Anote-me) — projeto para organização de anotações e informações pessoais.
+- [estoque](https://github.com/wendellparanhos/estoque) — sistema de controle de estoque com foco em gestão prática.
+- [Clients-Manager](https://github.com/wendellparanhos/Clients-Manager) — aplicação para cadastro e gerenciamento de clientes.
+- [PhileOdonto](https://github.com/wendellparanhos/PhileOdonto) — projeto voltado para clínica/odontologia com interface funcional.
+- [painel-github](https://github.com/wendellparanhos/painel-github) — painel para acompanhar projetos, tarefas e status.
+- [Projeto-Vendas](https://github.com/wendellparanhos/Projeto-Vendas) — projeto voltado a e-commerce e gestão de vendas.
 
 ## 🔗 Conecte-se
 
@@ -74,10 +80,10 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/wendellparanhos/painel-github">
-    <img alt="Dashboard Project" src="https://img.shields.io/badge/Dashboard-Project-8B5CF6?style=for-the-badge" />
+    <img alt="Dashboard Project" src="https://img.shields.io/badge/Projeto-Dashboard-8B5CF6?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Código limpo, arquitetura sólida e soluções que resolvem problemas reais."</i>
+  <i>"Construindo soluções web com foco em funcionalidade, organização e impacto real."</i>
 </p>
